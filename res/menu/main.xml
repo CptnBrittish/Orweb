@@ -25,4 +25,6 @@
               android:showAsAction="never"
         
     ></item>
+<item android:id="@+id/menu_homepage" android:icon="@drawable/ic_menu_home" android:title="@string/menu_homepage"></item>
+
 </menu>
