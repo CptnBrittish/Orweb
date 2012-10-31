@@ -12,9 +12,13 @@ tmp/
 *.swp
 *~.nib
 local.properties
+project.properties
+R.java
 .classpath
 .settings/
 .loadpath
+.log
+*.log
 
 # External tool builders
 .externalToolBuilders/
